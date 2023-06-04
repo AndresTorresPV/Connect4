@@ -184,6 +184,7 @@ public class App extends Application {
 
             setCenterX(TILE_SIZE / 2);
             setCenterY(TILE_SIZE / 2);
+            
         }
     }
 
